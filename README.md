@@ -1,4 +1,4 @@
-# Metodo-dos-minimos-quadrados-(MMQ)
+# Método-dos-mínimos-quadrados-(MMQ)
 Aprender o método dos mínimos quadrados para ajustes de retas.
 
 
