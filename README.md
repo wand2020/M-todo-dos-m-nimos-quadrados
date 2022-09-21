@@ -1,8 +1,8 @@
 # Método-dos-mínimos-quadrados-(MMQ)
 
 Este projeto apresenta um método matemático muito eficiente na análise de dados, 
-e que será apresentado aqui para resolver problemas de ajuste linear de forma direta e 
-também linearizada. 
+e que será apresentado aqui para resolver problemas de ajuste linear de forma direta [ Arquivo: MMQ] e 
+também linearizada [Arquivo: MMW_log-log]. 
 No final apresentaremos uma aplicação de um fenômeno físico observacional o pêndulo simples.
 
 Objetivo:
