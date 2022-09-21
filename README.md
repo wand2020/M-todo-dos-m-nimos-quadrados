@@ -6,6 +6,7 @@ também linearizada.
 No final apresentaremos uma aplicação de um fenômeno físico observacional o pêndulo simples.
 
 Objetivo:
+
 Aprender o método dos mínimos quadrados para ajustes de retas.
 
 
@@ -18,6 +19,7 @@ Sendo um ajuste de reta, o objetivo do método é encontrar os coeficientes angu
 
 
 **Função Linear**
+
 A função linear pode ser definida por:
 
 y=ax +b
@@ -25,12 +27,15 @@ y=ax +b
 onde,
 
 y e x: variáveis
+
 a e b: Coeficiente angular e linear
 
 **Função Potencial**
+
 $y =kx^n$
 
 k e n: constantes
 
 **Exemplo de uma função potencial - Aplicação pêndulo físico**
-$T=2\pi sqrt{L/g}$
+
+$T=2 sqrt{L/g}$
