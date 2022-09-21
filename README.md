@@ -38,4 +38,4 @@ k e n: constantes
 
 **Exemplo de uma função potencial - Aplicação pêndulo físico**
 
-$T=2 sqrt{L/g}$
+$T=2 \alpha \sqrt{L/g}$
